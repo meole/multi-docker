@@ -21,3 +21,4 @@ after_success:
   - docker push meole/multi-nginx
   - docker push meole/multi-server
   - docker push meole/multi-worker
+  
